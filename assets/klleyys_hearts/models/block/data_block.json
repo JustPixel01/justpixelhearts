@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "klleyys_hearts:block/khdd",
+    "up": "klleyys_hearts:block/khdd",
+    "north": "klleyys_hearts:block/khdd",
+    "east": "klleyys_hearts:block/khdd",
+    "south": "klleyys_hearts:block/khdd",
+    "west": "klleyys_hearts:block/khdd",
+    "particle": "klleyys_hearts:block/khdd"
+  },
+  "render_type": "solid"
+}

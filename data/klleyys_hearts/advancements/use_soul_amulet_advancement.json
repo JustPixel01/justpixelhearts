@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "klleyys_hearts:soul_amulet"
+    },
+    "title": {
+      "translate": "advancements.use_soul_amulet_advancement.title"
+    },
+    "description": {
+      "translate": "advancements.use_soul_amulet_advancement.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "use_soul_amulet_advancement_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 500
+  },
+  "parent": "klleyys_hearts:soul_amulet_advancement"
+}

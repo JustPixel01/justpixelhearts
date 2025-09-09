@@ -1,0 +1,34 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="Creative Commons Attribution-NonCommercial 3.0"
+
+[[mods]]
+modId="klleyys_hearts"
+version="2.0.2"
+displayName="Klleyy's Hearts"
+displayURL="https://mcreator.net"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+authors="Klleyy, MCreator"
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.klleyys_hearts]]
+    modId="neoforge"
+    type="required"
+    versionRange="[21.1.92,)"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.klleyys_hearts]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21.1]"
+    ordering="AFTER"
+    side="BOTH"
+
+
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration
